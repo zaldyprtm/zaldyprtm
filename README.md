@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zaldyprtm
-- 🤷‍♂️ Beginner 
+- 🤷‍♂️ Newbie
 - 🧾 im currenly learning React for web development and mobile app
 
 
