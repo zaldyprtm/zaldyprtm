@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zaldyprtm
-- 👀 I’m interested in programming and ethical hacking
-- 🌱 I’m currently learning ReactJs and Python
+- 🤷‍♂️ Beginner 
+- 🧾 im currenly learning React for web development and mobile app
 
 
 <!---
